@@ -1,6 +1,6 @@
 defaults:
   - dataset: ABIDE
-  - model: bnt # brainnetcnn, fbnetgen, bnt, transformer
+  - model: comtf
   - optimizer: adam
   - training: basic_training
   - datasz: 100p
@@ -13,5 +13,5 @@ save_attn_weights: True
 save_test_attn_weights: False
 
 # wandb
-wandb_entity: bnt-bgnn
-project: brainnetworktransformer-2
+wandb_entity: ComBrainTF
+project: Com-BrainTF

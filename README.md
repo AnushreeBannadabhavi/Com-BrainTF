@@ -8,7 +8,7 @@ Th
 2. Run the following command to train the model.
 
 ```bash
-python -m source --multirun datasz=100p model=bnt dataset=ABIDE repeat_time=5 preprocess=mixup
+python -m source --multirun datasz=100p model=comtf dataset=ABIDE repeat_time=5 preprocess=mixup
 ```
 
 ## Acknowledgement

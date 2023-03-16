@@ -96,7 +96,7 @@ class TransPoolingEncoder(nn.Module):
         return self.dec.loss(assignment)
 
 
-class BrainNetworkTransformer(BaseModel):
+class ComBrainTF(BaseModel):
 
     def __init__(self, config: DictConfig):
 
