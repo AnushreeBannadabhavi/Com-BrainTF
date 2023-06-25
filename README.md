@@ -1,6 +1,6 @@
 # Com-BrainTF
 
-The official Pytorch implementation of paper "Community-Aware Transformer for Autism Prediction in fMRI Connectome" accepted by MICCAI 2023
+The official Pytorch implementation of paper "Community-Aware Transformer for Autism Prediction in fMRI Connectome" accepted by **MICCAI 2023**
 
 Abide dataset available [here](https://drive.google.com/file/d/1rTmBuLbMNu-vW7g43eSu21ur1Sc4oVHh/view?usp=sharing).
 
